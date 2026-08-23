@@ -1,2 +1,8 @@
-# holublast-legal
-Official HoluBlast Privacy Policy and Terms of Use from TechTunerLife LLC.
+# HoluBlast Legal
+
+Official legal documents for HoluBlast, provided by TechTunerLife LLC.
+
+- [Privacy Policy](PRIVACY.md)
+- [Terms of Use](TERMS.md)
+
+Contact: support@techtunerlife.com
