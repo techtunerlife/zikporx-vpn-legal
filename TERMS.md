@@ -1,3 +1,9 @@
+---
+layout: page
+title: Terms of Use
+permalink: /terms/
+---
+
 # HoluBlast Terms of Use
 
 **Effective date: August 23, 2026**

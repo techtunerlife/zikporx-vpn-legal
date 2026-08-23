@@ -1,3 +1,9 @@
+---
+layout: page
+title: Privacy Policy
+permalink: /privacy/
+---
+
 # HoluBlast Privacy Policy
 
 **Effective date: August 23, 2026**
