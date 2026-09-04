@@ -1,12 +1,12 @@
 ---
 layout: home
-title: HoluBlast Legal
+title: Zikporx VPN Legal
 permalink: /
 ---
 
 # Your server. Your privacy.
 
-Official legal information for **HoluBlast**, provided by **TechTunerLife LLC**.
+Official legal information for **Zikporx VPN**, provided by **TechTunerLife LLC**.
 
 ## Legal documents
 
