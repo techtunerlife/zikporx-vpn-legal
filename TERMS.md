@@ -6,7 +6,7 @@ permalink: /terms/
 
 # Zikporx VPN Terms of Use
 
-**Effective date: August 23, 2026**
+**Effective date: September 25, 2026**
 
 These Terms of Use (“Terms”) govern your use of the Zikporx VPN application and related software provided by TechTunerLife LLC (“TechTunerLife,” “we,” “us,” or “our”). By downloading, installing, accessing, or using Zikporx VPN, you agree to these Terms.
 
@@ -29,6 +29,7 @@ Zikporx VPN connects to infrastructure you select and control. You are responsib
 - Protecting administrator credentials, device credentials, enrollment keys, backups, and recovery methods.
 - Keeping software and systems updated and securely configured.
 - Paying all third-party hosting, network, and data charges.
+- Understanding that automatic setup installs software and system services on your server, opens the selected VPN port in the server firewall (UFW or firewalld), and that the app may later sign in with your saved SSH login to restart the Zikporx VPN service.
 - Ensuring that your use complies with all applicable laws, contracts, and provider policies.
 
 TechTunerLife does not operate or control your self-hosted server and is not responsible for the availability, security, content, logs, or conduct of third-party providers.

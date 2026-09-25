@@ -6,7 +6,7 @@ permalink: /privacy/
 
 # Zikporx VPN Privacy Policy
 
-**Effective date: August 23, 2026**
+**Effective date: September 25, 2026**
 
 Zikporx VPN is provided by TechTunerLife LLC (“TechTunerLife,” “we,” “us,” or “our”). This Privacy Policy explains how information is handled when you use the Zikporx VPN mobile application and related software.
 
@@ -25,7 +25,7 @@ To configure and operate a connection, the app may process:
 
 This information is stored locally on your device, including through iOS Keychain or the iOS VPN configuration system where appropriate.
 
-During automatic server setup, the SSH username and password you provide are used to connect directly to your server. The password is held in memory for the setup session, is not intentionally saved by Zikporx VPN, and is not sent to TechTunerLife.
+During automatic server setup, the SSH username and password you provide are used to connect directly to your server. After a successful setup, Zikporx VPN stores this SSH login, together with your server's verified SSH identity, in the iOS Keychain on your device (this device only, not synced to iCloud). It is used only to reconnect to that same verified server and restart the Zikporx VPN service if it stops. Your SSH login is never sent to TechTunerLife or any third party.
 
 ## 3. VPN traffic
 
@@ -52,7 +52,7 @@ Apple and the App Store may process information independently under their own po
 
 ## 6. Retention
 
-Locally stored Zikporx VPN configuration remains on your device until you remove the VPN profile, delete the configuration, or uninstall the app, subject to iOS behavior. Information on your self-hosted server remains under your control. Support communications are retained only as reasonably necessary for support, security, legal, and business purposes.
+Locally stored Zikporx VPN configuration remains on your device until you remove the VPN profile, delete the configuration, or uninstall the app, subject to iOS behavior. Information on your self-hosted server remains under your control. Your saved SSH login is replaced each time you run Server Setup. iOS may keep Keychain items after the app is deleted; to remove them completely, reset your device or contact support for assistance. Support communications are retained only as reasonably necessary for support, security, legal, and business purposes.
 
 ## 7. Security
 
